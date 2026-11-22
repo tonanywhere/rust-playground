@@ -37,4 +37,4 @@ native-tls Example:
 
 ### How to generate new Keys / Certificates
 
-Read [here](https://github.com/APonce911/rust-playground/blob/main/tls_server/TLS.md)  
+Read [here](https://github.com/tonanywhere/rust-playground/blob/main/tls_server/TLS.md)
